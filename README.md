@@ -194,8 +194,7 @@ https://console.cloud.google.com/
         ```bash
         gcloud auth application-default login
         ```
-    * ログインしたユーザーアカウントに、対象 GCS バケットへの書き込み権限 (`roles/storage.objectAdmin` または `objectCreator`) が必要です。IAM ページで確認・付与してください。
-
+        でてきたURLをクリック。出てきたトークンを貼り付けます。
 6.  **動作確認 (ローカル実行):**
     * `app.py` を保存し、`streamlit run app.py` でローカル実行します。
     ```bash
