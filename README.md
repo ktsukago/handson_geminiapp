@@ -43,7 +43,7 @@
 
 ---
 ## モジュール 0: コンソールを開く
-[https://console.cloud.google.com/]
+https://console.cloud.google.com/
 
 
 ## モジュール 1: 開発環境のセットアップ Cloud Shell Editor
